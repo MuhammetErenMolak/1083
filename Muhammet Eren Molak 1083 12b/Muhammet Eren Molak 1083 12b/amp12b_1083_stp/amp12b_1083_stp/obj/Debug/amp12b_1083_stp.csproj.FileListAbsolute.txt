@@ -1,0 +1,46 @@
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\bin\Debug\amp12b_1083_stp.exe.config
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\bin\Debug\amp12b_1083_stp.exe
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\bin\Debug\amp12b_1083_stp.pdb
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.frmKategoriIslemleri.resources
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.frmTedarikciIslemleri.resources
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.frmUrunIslemleri.resources
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.Properties.Resources.resources
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.exe
+D:\Öğrenci Dosyaları\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.pdb
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\bin\Debug\amp12b_1083_stp.exe.config
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\bin\Debug\amp12b_1083_stp.exe
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\bin\Debug\amp12b_1083_stp.pdb
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.frmKategoriIslemleri.resources
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.frmTedarikciIslemleri.resources
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.frmUrunIslemleri.resources
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.Musteriİslemleri.resources
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.Personelİslemleri.resources
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.Properties.Resources.resources
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.exe
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.pdb
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.GirisSayfası.resources
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.Anasayfası.resources
+D:\Öğrenci Dosyaları\1083\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.SatısDetaylari.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\bin\Debug\amp12b_1083_stp.exe.config
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\bin\Debug\amp12b_1083_stp.exe
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\bin\Debug\amp12b_1083_stp.pdb
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.Anasayfası.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.frmKategoriIslemleri.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.frmTedarikciIslemleri.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.frmUrunIslemleri.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.GirisSayfası.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.Musteriİslemleri.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.Personelİslemleri.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.Properties.Resources.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.SatısDetaylari.resources
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.exe
+D:\Öğrenci Dosyaları\1083\12sınıfntpprojesi(stoktakip)\Muhammet Eren Molak 1083 12b\Muhammet Eren Molak 1083 12b\amp12b_1083_stp\amp12b_1083_stp\obj\Debug\amp12b_1083_stp.pdb

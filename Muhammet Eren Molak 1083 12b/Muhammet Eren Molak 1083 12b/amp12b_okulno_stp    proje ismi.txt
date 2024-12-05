@@ -1,0 +1,16 @@
+amp12b_okulno_stp   // proje ismi
+proje öğrenci dosyalarına kaydet ve kendine mail at
+github a kaydol ve dosya yüklemeyi öğren 
+
+
+kategori işlemleri 		63
+tedarikçi işlemleri		67
+ürün işlemleri			70
+
+müşteri işlemleri 
+personel işlemleri
+kullanıcı girişi
+
+
+ana sayfa 
+satış detayları
